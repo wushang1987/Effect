@@ -111,5 +111,4 @@
 |---|---|---|---|---|
 |angularjs|angularjs||
 |angular ui||最常用的angular路由|
-|ui-route|angularjs|最常用的angular路由|
 
