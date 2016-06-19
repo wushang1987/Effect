@@ -105,5 +105,11 @@
 |Fenix     |nodejs||
 
 
+## angularjs
 
+|名称|标签|简介|依赖|github fork|
+|---|---|---|---|---|
+|angularjs|angularjs||
+|angular ui||最常用的angular路由|
+|ui-route|angularjs|最常用的angular路由|
 
