@@ -8,7 +8,6 @@
 |[swiper](http://www.swiper.com.cn/)|移动|常用于移动端网站的内容触摸滑动|
 |[funnyText](https://github.com/alvarotrigo/funnyText.js)|动画|有趣的字体动画|
 |[velocityjs](http://julian.com/research/velocity/)|动画|比较重要的动画库|
-|[ckeditor](http://ckeditor.com/)|富文本||
 |[D3.js](http://d3js.org/)|数据可视化方向||
 |[datatables](http://www.datatables.net/)|表格||
 |[threejs](http://threejs.org/)|3D||
@@ -116,3 +115,13 @@
 |angularjs|angularjs||
 |angular ui||最常用的angular路由|
 
+## 富文本编辑器
+
+|名称|标签|简介|依赖|github fork|
+|---|---|---|---|---|
+|[ckeditor](http://ckeditor.com/)|富文本|| 
+|[ueditor](http://ueditor.baidu.com/website/)|富文本|| 
+|[summernote](http://summernote.org/)|富文本|| 
+|[simditor](http://simditor.tower.im/)|富文本|| 
+|[markitup](http://markitup.jaysalvat.com/examples/skin1/)|富文本|| 
+|[tinymce](https://www.tinymce.com/)|富文本|| 
