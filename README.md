@@ -105,3 +105,8 @@
 |[simditor](http://simditor.tower.im/)|富文本|| 
 |[markitup](http://markitup.jaysalvat.com/examples/skin1/)|富文本|| 
 |[tinymce](https://www.tinymce.com/)|富文本|| 
+
+
+## 自动分页
+
+https://github.com/infinite-scroll/infinite-scroll
